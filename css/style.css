@@ -1,0 +1,22 @@
+.blue-bg{
+    background-color: #ecda9f;
+}
+.container{
+    margin-bottom: 40px;
+}
+.bg-color{
+    background-color: rgb(245, 199, 247);
+}
+.carousel-item {
+    padding: 20px 40px;
+    text-align: justify;
+}
+.price{
+    color: tomato;
+}
+.card-text{
+    color: gray;
+}
+.title{
+    color: midnightblue;
+}

@@ -1,8 +1,10 @@
 .blue-bg{
     background-color: #ecda9f;
+    border-radius: 5px;
 }
 .container{
     margin-bottom: 40px;
+    
 }
 .bg-color{
     background-color: rgb(245, 199, 247);
@@ -19,4 +21,52 @@
 }
 .title{
     color: midnightblue;
+}
+.img-w-25{
+    width: 30%;
+    border-radius: 10px;
+}
+.cat1{
+    padding: 20px 30px;
+    background-color: lavender;
+    border-radius: 10px;
+}
+h1{
+    color: tomato;
+}
+h3{
+    text-align: center;
+    color: orange;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    text-decoration-thickness: 2px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.saiz{
+    width: 10%;
+}
+.muted{
+    background-color: orangered;
+    border-radius: 5px;
+    padding: 5px 20px;
+    color: #fff;
+}
+#submit{
+    height: 250px;
+}
+.mute{
+    background-color: rgb(233, 6, 157);
+    border-radius: 5px;
+    padding: 5px 20px;
+    color: #fff;
+    text-align: center;
+    width: 100%;
+}
+footer{
+    text-align: center;
+    color: gray;
+    margin-bottom: 20px;
 }
